@@ -1,6 +1,6 @@
 {
-  "name": "hands-on-red-iot",
-  "description": "Node-RED instance for deploying Projects",
+  "name": "hands-on-red-iot-ch6",
+  "description": "Node-RED instance for acquiring data from the Sense Hat and storing them in InfluxDB",
   "version": "1.0.0",
   "private": true,
   "main": "node_modules/node-red/red/red.js",
