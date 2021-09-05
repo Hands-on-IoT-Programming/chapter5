@@ -6,9 +6,9 @@
   "main": "node_modules/node-red/red/red.js",
   "scripts": {
     "start": "FLOW=scratch node node_modules/node-red/red.js --settings=./settings.js",
-    "flow0-CH4": "FLOW=flow0 node node_modules/node-red/red.js --settings=./settings.js flows/flow0.json",
-    "flow1-CH5": "FLOW=flow1 node node_modules/node-red/red.js --settings=./settings.js flows/flow1.json",
-    "flow2-CH5": "FLOW=flow2 node node_modules/node-red/red.js --settings=./settings.js flows/flow2.json",
+    "flow0-CH3": "FLOW=flow0 node node_modules/node-red/red.js --settings=./settings.js flows/flow0.json",
+    "flow1-CH4": "FLOW=flow1 node node_modules/node-red/red.js --settings=./settings.js flows/flow1.json",
+    "flow2-CH4": "FLOW=flow2 node node_modules/node-red/red.js --settings=./settings.js flows/flow2.json",
     "flow3": "FLOW=flow3 node node_modules/node-red/red.js --settings=./settings.js flows/flow3.json",
     "custom": "FLOW=custom node node_modules/node-red/red.js --settings=./settings.js flows/flow3.json --port ${PORT:-2880}"
   },
