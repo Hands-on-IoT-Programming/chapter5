@@ -1,2 +1,2 @@
 # chapter6
-Code samples for Chapter 6 Storing historical data with ​MongoDB
+Code samples for Chapter 5 Storing & graphing data streams with InfluxDB and Grafana
